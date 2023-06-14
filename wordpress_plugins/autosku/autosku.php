@@ -4,7 +4,7 @@
  * Plugin Name: Auto Fill SKU for Books
  * Description: Automatically fills in the SKU for products in the "books" category using OpenAI to fetch the ISBN.
  * Version: 1.0
- * Author: Your Name
+ * Author: Peter Alcock
  */
 
 // Hook into the product save action
