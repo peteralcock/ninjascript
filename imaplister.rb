@@ -19,7 +19,7 @@ imap.login(username, password)
 imap.select('INBOX')
 
 # Fetch the last 100 emails
-mail_ids = imap.search(['ALL']).last(100)
+mail_ids = imap.search(['ALL'])
 
 # Initialize an array of hashes to store email data
 emails = []
