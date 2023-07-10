@@ -1,3 +1,3 @@
 # NinjaScript
-Poppin' code kickflips for doing #basic street ninja thangz
+Various script kiddie kickflips for doin' hoodrat stuff wit yo franz
 
