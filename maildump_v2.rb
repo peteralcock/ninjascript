@@ -1,3 +1,5 @@
+# VERSION 2: Now including email attachment downloader!
+
 require 'net/imap'
 require 'mail'
 require 'eml_to_pdf'
