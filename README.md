@@ -1,4 +1,4 @@
-# NinjaScript$
+# Ninja Scripts
 Various script kiddie kickflips for household chores
 
 
