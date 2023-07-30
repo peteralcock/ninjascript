@@ -1,5 +1,5 @@
 # Ninja Scripts
-Various script kiddie kickflips for doing household chores
+Various script kiddie codez for doin household chores
 
 
 ## Repo2String
