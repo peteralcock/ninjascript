@@ -1,2 +1,2 @@
 # NinjaScript
-1337 $kr1ptZzz for various house-hold chores
+1337 c0d3z for various house-hold chores
