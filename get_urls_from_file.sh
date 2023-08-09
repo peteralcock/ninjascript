@@ -1,2 +1,3 @@
 #/bin/bash
-grep -Eoi '<a [^>]+>' $1 | grep -Eo 'href="[^\"]+”' |grep -Eo '(http|https)://[^”]+'
+TARGET_FILE=$1
+grep -Eoi '<a [^>]+>' $TARGET_FILE | grep -Eo 'href="[^\"]+”' |grep -Eo '(http|https)://[^”]+'
